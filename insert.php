@@ -1,8 +1,8 @@
 <?php
-$host = 'dbutt.mysql.database.azure.com';
-$username = 'baoanhhihi';
-$password = 'Vuchien@123';
-$db_name = 'utt';
+$host = 'thiensql.mysql.database.azure.com';
+$username = 'thiensql';
+$password = '123999Aa@';
+$db_name = 'thongtinsv';
 
 //Establishes the connection
 $conn = mysqli_init();
