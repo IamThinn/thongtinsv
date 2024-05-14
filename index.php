@@ -50,7 +50,7 @@ ini_set('display_errors', '0');
         <div class="header">
             <div class="header__title">
                 <div class="header__title__description" style="color: #fff;">
-                    TRƯƠNG ĐẠI HỌC CÔNG NGHỆ GTVT
+                    TRƯƠNG ĐẠI HỌC HÀNG HẢI VIỆT NAM
                 </div>
 
                 <div class="header__title__user">
@@ -116,11 +116,11 @@ ini_set('display_errors', '0');
                 <div class="container__information--col">
                     <div class="container__information--row"> 
                         <div class="container__information--title">Trạng thái:</div>
-                        <div class="container__information--status">Đang học</div>
+                        <div class="container__information--status">OK</div>
                     </div>
                     <div class="container__information--row"> 
                         <div class="container__information--title">Lớp: </div>
-                        <div class="container__information--class"><?php echo $row['Class'] ?></div>
+                        <div class="container__information--class"><?php echo $row['Student_id'] ?></div>
                     </div>
                 </div>
 
